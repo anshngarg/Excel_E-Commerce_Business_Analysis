@@ -1,1 +1,2 @@
-# Excel_Vrinda_Store_Analysis
+# Excel_E-Commerce_Business_Analysis
+This is an advanced excel end to end project.
